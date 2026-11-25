@@ -35,5 +35,4 @@ I code in the languages that computers really understand:
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – My daily motto while debugging in Assembly
 
